@@ -126,7 +126,8 @@ class ProductDetailView(View):
             compare_products.extend(list(Product.objects\
                                          .filter(category=current_category_dict["milk"])\
                                          .filter(category=current_category_dict["style"])\
-                                         .exclude(category=current_category_dict["countries"])))
+                                         .exclude(category=current_category_dict["countries"])\
+                                         .prefetch_related('category', 'option_set')))
                                 
 
             product_result = {
