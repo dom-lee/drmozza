@@ -7,7 +7,9 @@
 - 개발은 초기 세팅부터 전부 직접 구현하였습니다.
 
 ## 데모영상
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lqHxD3Zq770" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+(이미지 클릭시 유튜브 링크로 이동)
+
+[![](https://img.youtube.com/vi/lqHxD3Zq770/0.jpg)](https://www.youtube.com/watch?v=lqHxD3Zq770)
 
 ## 프로젝트 참여자
 - front-end: [황소미](https://github.com/somangoi), [박정훈](https://github.com/Junghoon-P), [이종민](https://github.com/sui3422)
